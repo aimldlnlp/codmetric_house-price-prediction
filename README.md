@@ -56,4 +56,4 @@ Additionally, a scatter plot visualizes the actual vs predicted house prices to 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-Your Name - [your.email@example.com]
+Zidan - z.zidan9123@gmail.com
